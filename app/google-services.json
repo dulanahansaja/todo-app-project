@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "458038858974",
+    "firebase_url": "https://todo-75278-default-rtdb.firebaseio.com",
+    "project_id": "todo-75278",
+    "storage_bucket": "todo-75278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458038858974:android:03f8d5c6685740275b1e4f",
+        "android_client_info": {
+          "package_name": "com.example.kotlintodopractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4M7Cx8vQBrH1fe__zYCDxx_QbXaoow70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
